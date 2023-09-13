@@ -1,3 +1,5 @@
+Forked from Airey.  Removes the depencies on deprecated library in libhomeseer....
+
 # HomeSeer Custom Integration for Home Assistant Forked from https://github.com/marthoc/homeseer
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs) 
